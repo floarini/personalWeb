@@ -1,0 +1,44 @@
+<link
+  rel="stylesheet"
+  href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+  integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
+  crossorigin="anonymous"
+/>
+<link
+  href="https://fonts.googleapis.com/css?family=Poppins:200i,300,400&display=swap"
+  rel="stylesheet"
+/>
+
+<!-- NAV STARTS HERE -->
+
+<nav id="navbar" class="nav">
+  <ul class="nav-list">
+    <li>
+      <a href="#welcome-section">About</a>
+    </li>
+    <li>
+      <a href="#projects">Work</a>
+    </li>
+    <li>
+      <a href="#contact">Contact</a>
+    </li>
+  </ul>
+</nav>
+
+<!-- NAV ENDS HERE -->
+
+
+<!-- WELCOME SECTION -->
+
+<section id="welcome-section" class="welcome-section">
+  <h1>Hey I am Flo Arini</h1>
+  <p>a web developer</p>
+</section>
+
+<!-- WELCOME SECTION ENDS -->
+
+
+<!-- PROJECT SECTION -->
+
+<section id="projects" class="project-section">
+  <h2 class="projects-section-header">These are some of my ongoing projects</h2>
